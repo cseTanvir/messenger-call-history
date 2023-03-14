@@ -80,7 +80,7 @@ button[type="submit"]:hover {
 table {
     border-collapse: collapse;
     margin: auto auto ;
-    max-width: 800px;
+    /*max-width: 800px;*/
     background-color: #2d2d2d;
     color: #f2f2f2;
     border-radius: 5px;

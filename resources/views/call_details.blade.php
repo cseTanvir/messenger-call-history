@@ -14,7 +14,7 @@
                 <h1 class="noselect text-align-center">Total call duration for <span class="text-warning">{{ $participant }}</span> : <span class="text-info">{{ $duration }}</span> seconds</h1>
             @endforeach
         </div>
-        <div class="d-flex flex-wrap">
+        <div class="d-flex flex-wrap me-5 ms-5">
             <div class="p-2 flex-fill">
                 <div class="d-flex flex-wrap align-content-center">
                     <h2 class="noselect mx-auto">All call details:</h2>
