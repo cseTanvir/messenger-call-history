@@ -1,0 +1,173 @@
+/* Dark mode styles */
+body {
+    font-family: sans-serif;
+    font-size: 16px;
+    background-color: #121212;
+    color: #f2f2f2;
+}
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    background-color: #f2f2f2;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0 20px;
+}
+
+#toggle-button {
+    background-color: #1e90ff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#toggle-button:hover {
+    background-color: #007fff;
+}
+
+h1 {
+    text-align: center;
+    color: #f2f2f2;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin: 20px auto;
+    max-width: 600px;
+    background-color: #2d2d2d;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+label {
+    margin-bottom: 10px;
+    color: #f2f2f2;
+}
+
+input[type="file"] {
+    margin-bottom: 20px;
+    background-color: #202020;
+    color: #f2f2f2;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+
+button[type="submit"] {
+    padding: 10px;
+    background-color: #1e90ff;
+    color: #f2f2f2;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button[type="submit"]:hover {
+    background-color: #007fff;
+}
+
+table {
+    border-collapse: collapse;
+    margin: auto auto ;
+    max-width: 800px;
+    background-color: #2d2d2d;
+    color: #f2f2f2;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+th,
+td {
+    border: 1px solid #f2f2f2;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #1e90ff;
+    color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+    background-color: #202020;
+}
+
+/* Styles for the page title */
+h1 {
+    text-align: center;
+    font-size: 36px;
+    margin-top: 50px;
+    color: #f2f2f2;
+}
+
+/* Styles for the form */
+form {
+    margin: 50px auto;
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+label {
+    font-size: 20px;
+}
+
+input[type="file"] {
+    margin-top: 10px;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #202020;
+    color: #f2f2f2;
+}
+
+button[type="submit"] {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: #1e90ff;
+    color: #f2f2f2;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button[type="submit"]:hover {
+    background-color: #007fff;
+}
+
+/* Styles for the tables */
+table {
+    margin-top: 50px;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table th {
+    background-color: #1e90ff;
+    color: #f2f2f2;
+    padding: 10px;
+    text-align: left
+}
+.noselect {
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+
+
