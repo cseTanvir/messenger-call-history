@@ -64,4 +64,7 @@ We appreciate any contributions to the Messenger Call History application. Thank
 ## License
 This project is licensed under the MIT License.
 ## Contact
-If you have any questions or feedback, feel free to contact us.
+If you have any questions or feedback, feel free to contact me on:
+- mail : tanvirhossain1994@gmail.com
+- LinkedIn : https://www.linkedin.com/in/csetanvir 
+- Twitter: https://twitter.com/cseTanvir
