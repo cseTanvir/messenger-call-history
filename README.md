@@ -43,7 +43,7 @@ To use the application, follow these steps:
 
  4. The application will display these statistics in a user-friendly format, including a table that displays the call data and several charts that show the call statistics in graphical form.
 
-If you don't want to install the application, you can also visit [https://mch.csetanvir.online](https://mch.csetanvir.com/) to use it online.This app will be always free. We do not collect or save the uploaded file or information, so your privacy is 100% protected.
+If you don't want to install the application, you can also visit [https://mch.csetanvir.com](https://mch.csetanvir.com/) to use it online.This app will be always free. We do not collect or save the uploaded file or information, so your privacy is 100% protected.
 ## Contributing
 We encourage others to contribute to the Messenger Call History application. Here are some ways to contribute:
 
